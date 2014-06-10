@@ -18,3 +18,5 @@ while [ $totallin -gt $numlin ]; do
 	(( numlin++ ))
 done
 agua
+agua2
+papas
