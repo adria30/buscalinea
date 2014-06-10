@@ -17,3 +17,4 @@ while [ $totallin -gt $numlin ]; do
 	head -$numlin $fichero | tail -1
 	(( numlin++ ))
 done
+agua
